@@ -1,0 +1,13 @@
+release/formbarang.o
+release/formkembali.o
+release/formpelanggan.o
+release/formpesanan.o
+release/formtulis.o
+release/main.o
+release/halamanutama.o
+release/moc_formbarang.o
+release/moc_formkembali.o
+release/moc_formpelanggan.o
+release/moc_formpesanan.o
+release/moc_formtulis.o
+release/moc_halamanutama.o
